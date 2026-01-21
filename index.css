@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: Times New Roman;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: Times New Roman;
+    text-decoration: underline;
+}
+
+#box1 {
+    border-color: 10px red;
+}
